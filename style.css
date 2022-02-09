@@ -1,0 +1,41 @@
+body{
+
+    font-family: 'Poppins', sans-serif;
+
+}
+
+h1{
+    font-size: 50px;;
+}
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+.button-color{
+    color: white;
+    background-color: firebrick;
+}
+
+.name-highlight{
+    color: orange;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin: left 5%;
+    padding-left: 2%;
+}
+
+.half-width img{
+    width: 100%;
+}
